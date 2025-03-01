@@ -202,7 +202,7 @@ int main(){
 				printf("The Process Excuted Successfully\n");
 				break;
 		}
-		if(opt==7){
+		if(opt>=7){
 			break;
 		}
 		
